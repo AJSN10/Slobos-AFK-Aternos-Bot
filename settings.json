@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "smth-Y8Iu.aternos.me:16323",
+    "ip": "smth-Y8Iu.aternos.me",
     "port": 16323,
     "version": "",
     "try-creative": false
